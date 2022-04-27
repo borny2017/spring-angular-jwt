@@ -4,11 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8548416-864e-4784-90e1-fa095500d06f" name="Changes" comment="add sample app" />
+    <list default="true" id="c8548416-864e-4784-90e1-fa095500d06f" name="Changes" comment="add sample app">
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/.browserslistrc" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/.browserslistrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/.vscode/extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/.vscode/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/.vscode/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/app/component/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/app/component/login/login.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/app/component/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/app/component/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/app/component/profile/profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/app/component/profile/profile.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/app/component/profile/profile.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/app/component/profile/profile.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/app/service/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/app/service/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/app/service/token-storage.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/app/service/token-storage.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/app/service/userservice.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/app/service/userservice.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/augular-jwt-auth/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/augular-jwt-auth/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/SpringBootSecurityJwtApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/SpringBootSecurityJwtApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/controllers/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/controllers/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/controllers/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/models/ERole.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/models/ERole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/models/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/models/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/payload/request/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/payload/request/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/payload/request/SignupRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/payload/request/SignupRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/payload/response/JwtResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/payload/response/JwtResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/payload/response/MessageResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/payload/response/MessageResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/repository/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/security/jwt/AuthEntryPointJwt.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/security/jwt/AuthEntryPointJwt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/security/jwt/AuthTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/security/jwt/AuthTokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/security/jwt/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/security/jwt/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/security/services/UserDetailsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/security/services/UserDetailsImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/security/services/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/java/de/test/springjwt/security/services/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-jwt/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-jwt/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -51,7 +110,7 @@
       <updated>1651081399902</updated>
       <workItem from="1651081401526" duration="1650000" />
       <workItem from="1651087148399" duration="599000" />
-      <workItem from="1651088509283" duration="1740000" />
+      <workItem from="1651088509283" duration="2629000" />
     </task>
     <task id="LOCAL-00001" summary="add sample app">
       <created>1651081567585</created>
@@ -74,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651089999649</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add sample app">
+      <created>1651090392147</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651090392147</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
